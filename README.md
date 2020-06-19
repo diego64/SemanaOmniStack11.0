@@ -1,5 +1,5 @@
 <h4 align="center">
- 👍 SemanaOmniStack11.0 (De The Hero)
+ 👍 SemanaOmniStack11.0 (Be The Hero)
 </h4>
 
 <p align="center">
